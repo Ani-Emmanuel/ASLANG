@@ -17,8 +17,12 @@ npm i aslang -g
 ```
 
 ## Contributing
+<<<<<<< HEAD
+[Pull requests](pr-template.md) are welcome. For major changes, please open an issue first to discuss what you would like to change.
+=======
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+>>>>>>> 916f83a7118a0e76f36c2f99d90d3b5deb5079bb
 
 Please make sure to update tests as appropriate.
 
