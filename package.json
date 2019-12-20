@@ -1,0 +1,23 @@
+{
+  "name": "aslang",
+  "version": "0.0.1",
+  "description": "Aslang is something we are plaing with at the moment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ani-Emmanuel/ASLANG.git"
+  },
+  "author": "Eze and Arinze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ani-Emmanuel/ASLANG/issues"
+  },
+  "homepage": "https://github.com/Ani-Emmanuel/ASLANG#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "smalltest": "^2.2.2"
+  }
+}
