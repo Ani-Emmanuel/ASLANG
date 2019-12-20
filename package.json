@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Ani-Emmanuel/ASLANG#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "smalltest": "^2.2.2"
+    "eslint": "^6.7.2",
+    "smalltest": "^2.2.2",
+    "standardjs": "^1.0.0-alpha"
   }
 }
